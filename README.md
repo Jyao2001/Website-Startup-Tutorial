@@ -7,4 +7,4 @@ Note: all files can have different names, hence x,y,z.
 To access your newly created site, sinply paste the full path of the html file into the address bar of any web browser. 
 For example if my html file is on the desktop, i would paste: C:/Users/jyao/Desktop/xxx.html into the address bar. 
 
-Congratulations, you have created your own website. However, only people with the file(s) can access your website. 
+Congratulations, you have created your own website. However, only people with the file(s) can access your website. I have included a website I made in high school as an example html and css file. 
